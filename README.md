@@ -21,9 +21,9 @@
     El primer proyecto de gestionar tareas que hicimos, en consola
     <br />
     ·
-    <a href="https://github.com/Pikass0/C2B_TareasGUI/issues">Report Bug</a>
+    <a href="https://github.com/Pikass0/C2B_TareasConsola/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Pikass0/C2B_TareasGUI/issues">Request Feature</a>
+    <a href="https://github.com/Pikass0/C2B_TareasConsola/issues">Request Feature</a>
   </p>
 </p>
 
@@ -107,7 +107,7 @@ Si quieres contribuir (aunque lo dudo):
 2. Crea tu rama (`git checkout -b feature/AmazingFeature`)
 3. Commit los cambios (`git commit -m 'Add some AmazingFeature'`)
 4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un [Pull request](https://github.com/Pikass0/C2B_TareasGUI/pulls)
+5. Abre un [Pull request](https://github.com/Pikass0/C2B_TareasConsola/pulls)
 
 
 
@@ -122,9 +122,9 @@ Si quieres contribuir (aunque lo dudo):
 [discord-shield]: https://img.shields.io/badge/chat-on%20discord-7289da.svg?style=flat&logo=discord
 [discord-url]: https://www.discord.com/users/290575161869205504
 [contributors-shield]: https://img.shields.io/github/contributors/Pikass0/C2B_TareasConsola?color=green
-[contributors-url]: https://github.com/Pikass0/C2B_TareasGUI/graphs/contributors
+[contributors-url]: https://github.com/Pikass0/C2B_TareasConsola/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues-raw/Pikass0/C2B_TareasConsola?color=orange
-[issues-url]: https://github.com/Pikass0/C2B_TareasGUI/issues
+[issues-url]: https://github.com/Pikass0/C2B_TareasConsola/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&color=blue
 [linkedin-url]: https://www.linkedin.com/in/marcelo-toral-martínez-573735176/
 
