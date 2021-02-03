@@ -56,7 +56,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el proyecto
 
-![product-screenshot]<!--(https://example.com) por si se quiere metir link-->
 
 Kanban muy simplificado, unicamente con tareas pendientes y tareas terminadas.
 
@@ -88,7 +87,7 @@ Tener un IDE de Java, como JetBrains o NetBeans
    ```sh
    git clone https://github.com/Pikass0/C2B_TareasConsola.git
    ```
-2. Ejecutar el  MainFrame.java
+2. Ejecutar MainFrame.java
 
 
 <!-- USAGE EXAMPLES -->
@@ -126,4 +125,4 @@ Si quieres contribuir (aunque lo dudo):
 [issues-url]: https://github.com/Pikass0/C2B_TareasGUI/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&color=blue
 [linkedin-url]: https://www.linkedin.com/in/marcelo-toral-martínez-573735176/
-[product-screenshot]: images/readme_swing.jpg
+
