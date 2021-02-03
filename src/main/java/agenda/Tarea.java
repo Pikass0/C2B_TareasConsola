@@ -21,7 +21,7 @@ public class Tarea{
 
     
     
-    public Tarea(String desc, Prioridad prioridad) {
+    public Tarea(String desc, Prioridad prioridad) throws TareaException {
         this.fCreacion = LocalDate.now();
         this.desc = desc;
         this.prioridad = prioridad;

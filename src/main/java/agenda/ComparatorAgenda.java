@@ -6,7 +6,6 @@ import java.util.Comparator;
 public  class ComparatorAgenda implements Comparator<Tarea>{
 
     ComparatorAgenda() {
-       
     }
 
 

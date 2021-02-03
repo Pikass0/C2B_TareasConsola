@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedHashSet;
 import java.util.Set;
-import java.util.SortedSet;
 
 
 public class Agenda {
@@ -37,17 +36,18 @@ public class Agenda {
         doneList.add(tarea);
     }
     
-    public void realizarTarea(int index){
+    public boolean realizarTarea(int index){
         int cont = 1;
         for (Tarea tarea : todoList) {
             if (cont == index) {
                 todoList.remove(tarea);
                 tarea.setfRealizacion(LocalDate.now());
                 doneList.add(tarea); 
-                break;
+                return true;
             }
             cont++;
         }
+        return false;
 
     }
     
